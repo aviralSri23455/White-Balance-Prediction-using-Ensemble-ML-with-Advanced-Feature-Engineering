@@ -1,0 +1,13 @@
+pandas>=1.3.0
+numpy>=1.21.0
+opencv-python>=4.5.0
+scikit-learn>=1.0.0
+lightgbm>=3.3.0
+xgboost>=1.5.0
+matplotlib>=3.4.0
+Pillow>=8.3.0
+
+# Optional enhancements
+catboost>=1.0.0  # Additional gradient boosting model
+optuna>=3.0.0  # Hyperparameter tuning
+torch>=1.10.0  # Neural network models (CPU version)
